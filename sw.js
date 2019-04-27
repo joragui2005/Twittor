@@ -6,7 +6,6 @@ const DINAMYC_CACHE = "dinamyc-v1";
 const INMMUTABLE_CACHE = "inmmutable-v1";
 
 const APP_SHELL = [
-  //"/",
   "index.html",
   "css/style.css",
   "img/favicon.ico",
