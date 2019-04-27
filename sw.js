@@ -1,8 +1,8 @@
 //Imports
 importScripts("js/sw-utils.js");
 
-const STATIC_CACHE = "static-v2.1";
-const DINAMYC_CACHE = "dinamyc-v2.1";
+const STATIC_CACHE = "static-v2.2";
+const DINAMYC_CACHE = "dinamyc-v2.2";
 const INMMUTABLE_CACHE = "inmmutable-v2";
 
 const APP_SHELL = [
