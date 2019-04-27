@@ -3,7 +3,7 @@
     "name": "Twitter para Heores",
     "start_url": "index.html",
     "background_color": "#3498DB",
-    "theme-color": "#3498DB",
+    "theme_color": "#3498DB",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [
